@@ -14,7 +14,7 @@ A comprehensive Zero Trust Network Access solution that implements core ZTNA pri
 
 ## Architecture
 
-The system follows a modular architecture implementing the "trust no one, verify everything" principle[5]. Each component works together to provide:
+The system follows a modular architecture implementing the "trust no one, verify everything" principle. Each component works together to provide:
 
 - Continuous authentication and authorization
 - Real-time device security posture assessment
@@ -25,8 +25,8 @@ The system follows a modular architecture implementing the "trust no one, verify
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/ztna-python
-cd ztna-python
+https://github.com/Mr-Infect/ztna-system
+cd ztna-system
 pip install -r requirements.txt
 ```
 
